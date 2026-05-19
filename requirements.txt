@@ -1,0 +1,5 @@
+numpy>=1.21
+opencv-python>=4.5
+tensorflow>=2.8
+matplotlib>=3.5
+pillow>=9.0
